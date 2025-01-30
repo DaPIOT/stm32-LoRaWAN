@@ -16,7 +16,7 @@ I recommend using the STM32WB or STM32WL series to fully explore the potential o
 -> Mini560 5V buck converter<br>
 -> 3S 18650 Li-Po<br>
 ### Pin assignment:
-[Pinout view](images/1.png)
+![Alt text](images/1.png)
 ### How to import project in CubeMX
  _File > Import > Existing Projects into Workspace > Select archive file > ***Where you clone this repo***_
 
