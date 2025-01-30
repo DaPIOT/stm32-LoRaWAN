@@ -1,0 +1,10 @@
+../Core/Inc/../../lmic/oslmic.h:153:19:os_jobIsTimed	1
+../lmic/oslmic.c:37:6:os_init	1
+../lmic/oslmic.c:44:10:os_getTime	1
+../lmic/oslmic.c:49:12:unlinkjob	3
+../lmic/oslmic.c:58:18:getJobQueue	2
+../lmic/oslmic.c:64:6:os_clearCallback	1
+../lmic/oslmic.c:73:6:os_setCallback	2
+../lmic/oslmic.c:93:6:os_setTimedCallback	4
+../lmic/oslmic.c:120:6:os_runloop	1
+../lmic/oslmic.c:126:6:os_runloop_once	5

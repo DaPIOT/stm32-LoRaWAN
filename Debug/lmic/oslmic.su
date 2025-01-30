@@ -1,0 +1,10 @@
+../Core/Inc/../../lmic/oslmic.h:153:19:os_jobIsTimed	16	static
+../lmic/oslmic.c:37:6:os_init	8	static
+../lmic/oslmic.c:44:10:os_getTime	8	static
+../lmic/oslmic.c:49:12:unlinkjob	16	static
+../lmic/oslmic.c:58:18:getJobQueue	16	static
+../lmic/oslmic.c:64:6:os_clearCallback	16	static
+../lmic/oslmic.c:73:6:os_setCallback	24	static
+../lmic/oslmic.c:93:6:os_setTimedCallback	32	static
+../lmic/oslmic.c:120:6:os_runloop	8	static
+../lmic/oslmic.c:126:6:os_runloop_once	16	static
