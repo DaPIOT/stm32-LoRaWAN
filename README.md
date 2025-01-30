@@ -3,18 +3,18 @@ This project uses the IBM LMIC library which ported from AVR/espressif and only 
 I recommend using the STM32WB or STM32WL series to fully explore the potential of LoRaWAN with [I-CUBE-LRWAN Expansion Package](https://www.st.com/en/embedded-software/i-cube-lrwan.html).
 ## Setup Guide
 ### Components:
--> STM32F303RET6
--> ES32-AI-Thinker (leaf detection optional, you can build your own model [here](https://edgeimpulse.com/))
--> RFM95(W)
--> DHT22
--> BH1750
--> Capacitive soil moisture sensor
--> Rain pad (use pull-up resistor)
--> SSD1306
--> L298N
--> 5V relay
--> Mini560 5V buck converter
--> 3S 18650 Li-Po
+-> STM32F303RET6<br>
+-> ES32-AI-Thinker (leaf detection optional, you can build your own model [here](https://edgeimpulse.com/))<br>
+-> RFM95(W)<br>
+-> DHT22<br>
+-> BH1750<br>
+-> Capacitive soil moisture sensor<br>
+-> Rain pad (use pull-up resistor)<br>
+-> SSD1306<br>
+-> L298N<br>
+-> 5V relay<br>
+-> Mini560 5V buck converter<br>
+-> 3S 18650 Li-Po<br>
 ### Pin assignment:
 (images/1.png)
 ### How to import project in CubeMX
