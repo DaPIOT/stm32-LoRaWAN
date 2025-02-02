@@ -17,7 +17,10 @@ Include: OneWire, I2C, SPI, UART, DMA, ADC, PWM Timer, Interrupt, and Sleep mode
 -> Mini560 5V buck converter<br>
 -> 3S 18650 Li-Po<br>
 ### Pin assignment:
-![Alt text](images/1.png)<br>
+<div align="center">
+  <img src="mages/1.png"> <br>
+</div> 
+
 PB12 Read battery level Here I have used a voltage divider circuit with a ratio of 4.28<br>
 PB0 rain<br>
 PB1 soil<br>
