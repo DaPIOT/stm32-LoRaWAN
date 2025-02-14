@@ -26,8 +26,9 @@ PB0 rain<br>
 PB1 soil<br>
 PB10 push button to change the screen view<br>
 PC2 dht22<br>
-PC10 En2<br>
+PC10 In2<br>
 PC11 In1<br>
+PA15 En1
 PC12 Relay module<br>
 I2C_1 SSD1306<br>
 I2C_2 Bh1750<br>
